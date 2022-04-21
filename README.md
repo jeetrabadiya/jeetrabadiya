@@ -12,6 +12,8 @@ src="https://img.shields.io/twitter/follow/jeet_rabadiya04?logo=twitter&style=fo
 /></a><a href="https://www.github.com/jeetrabadiya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeetrabadiya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://komarev.com/ghpvc/?username=jeetrabadiya&style=for-the-badge&color=orange)
+
 ### Skills
 
 <p align="left">
